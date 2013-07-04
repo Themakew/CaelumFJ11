@@ -1,4 +1,3 @@
-
 public class BarraDeProgresso implements Runnable{
 
   @Override
